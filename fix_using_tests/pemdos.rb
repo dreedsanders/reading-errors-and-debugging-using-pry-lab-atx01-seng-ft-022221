@@ -5,7 +5,7 @@ def snake_it_up(string)
   new_string = ""
   while count < 10 
   if string[0] == "s"  
-  "s" + string = new_string
+  new_string<< "s"
   else
   string 
 end
