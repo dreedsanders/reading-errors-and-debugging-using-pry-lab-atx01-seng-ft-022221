@@ -2,14 +2,14 @@
 require 'pry'
 def snake_it_up(string)
   count = 0 
+  new_string = ""
   while count < 10 
   if string[0] == "s"  
-  10.times 
-  "s" + string 
+  "s" + string = new_string
   else
   string 
 end
 count += 1 
+new_string
 end
-string 
 end
