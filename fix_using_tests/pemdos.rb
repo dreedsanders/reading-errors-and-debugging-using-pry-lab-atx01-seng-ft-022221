@@ -2,10 +2,10 @@
 require 'pry'
 def snake_it_up(string)
   count = 0 
-  new_string = "surprise!"
+  new_string = "ssssssssss"
   while count < 10 
   if string[0] == "s"  
-  new_string.unshift ("s")
+  new_string.<< "surprise!"
   else
   string 
 end
