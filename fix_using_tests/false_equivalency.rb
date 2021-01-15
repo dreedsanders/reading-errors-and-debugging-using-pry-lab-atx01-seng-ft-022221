@@ -2,12 +2,13 @@
 require 'pry' 
 
 def get_user_input
-   binding.pry
+  
   gets.chomp
 end
 
 def prompt_user
   puts "What would you like to do?"
+   binding.pry
    "1.)Eat a hamburger."
    "2.)Eat a ham."
 end
