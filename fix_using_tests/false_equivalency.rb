@@ -7,7 +7,6 @@ end
 
 def prompt_user
   puts "What would you like to do?"
-   "1.)Eat a hamburger."
    "2.)Eat a ham."
 end
 
