@@ -5,7 +5,7 @@ def snake_it_up(string)
   new_string = "surprise!"
   while count < 10 
   if string[0] == "s"  
-  new_string.unshift "s"
+  new_string.unshift ("s")
   else
   string 
 end
