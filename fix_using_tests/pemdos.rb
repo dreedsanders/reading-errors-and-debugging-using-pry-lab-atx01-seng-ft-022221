@@ -7,6 +7,5 @@ def snake_it_up(string)
   else
   string 
 end
-count += 1 
 new_string
 end
